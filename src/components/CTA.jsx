@@ -11,7 +11,7 @@ const CTA = () => {
       className="py-[70px]"
     >
       <div className="container h-[400px]">
-        <div className="flex flex-col justify-center items-center gap-y-8 w-full h-full px-4 bg-[url('src/assets/cta-bg.png')] border border-solid border-gray-10 rounded-4xl">
+        <div className="flex flex-col justify-center items-center gap-y-8 w-full h-full px-4 bg-[url('public/cta-bg.png')] border border-solid border-gray-10 rounded-4xl">
           <h2 className="relative section-title-after text-h2 text-gray-10">
             Join Our Learning <br /> Community
           </h2>

@@ -7,3 +7,4 @@ export { default as Footer } from "./Footer";
 export { default as Course } from "./Course";
 export { default as Instructor } from "./Instructor";
 export { default as Blog } from "./Blog";
+export { default as ChatButton } from "./ChatButton";

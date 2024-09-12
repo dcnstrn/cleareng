@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { leftSideVariants, rightSideVariants } from "../constants/motion";
 import { hero01, hero02, hero03, roundedText } from "../constants/images";
+import { ChatButton } from "../components";
 const Hero = () => {
   return (
     <section id="home" className="flex items-center">
@@ -49,6 +50,7 @@ const Hero = () => {
           </motion.div>
         </div>
       </div>
+      <ChatButton />
     </section>
   );
 };

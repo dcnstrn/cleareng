@@ -1,4 +1,4 @@
-import { Header, Statistics, CTA, Footer } from "./components";
+import { Header, Statistics, CTA, Footer, ChatButton } from "./components";
 import {
   About,
   Blogs,
@@ -13,6 +13,7 @@ export default function App() {
   return (
     <>
       <Header />
+      {/* <ChatButton /> */}
       <Hero />
       <Statistics />
       <About />
@@ -20,7 +21,7 @@ export default function App() {
       {/* <Platform /> */}
       {/* <Courses /> */}
       <Instructors />
-      {/* <Blogs /> */}
+      <Blogs />
       <CTA />
       <Footer />
     </>

@@ -34,6 +34,7 @@ import blog01 from "../assets/blog-01.png";
 import blog02 from "../assets/blog-02.png";
 import blog03 from "../assets/blog-03.png";
 import blog04 from "../assets/blog-04.png";
+import cta from "../assets/cta-bg.png";
 import arrow from "../assets/arrow.svg";
 import arrowRight from "../assets/arrow-right.svg";
 import arrowRightUp from "../assets/arrow-right-up.svg";
@@ -80,6 +81,7 @@ export {
   blog02,
   blog03,
   blog04,
+  cta,
   arrow,
   arrowRight,
   arrowRightUp,
