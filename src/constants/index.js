@@ -36,23 +36,23 @@ import {
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Головна",
   },
   {
     id: "about",
-    title: "About",
+    title: "О Нас",
   },
   {
     id: "courses",
-    title: "Courses",
+    title: "Ціни",
   },
   {
     id: "team",
-    title: "Our Team",
+    title: "Команда",
   },
   {
     id: "blog",
-    title: "Blog",
+    title: "Блог",
   },
 ];
 

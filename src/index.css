@@ -55,6 +55,17 @@
   .btn-outline {
     @apply bg-transparent border border-solid border-gray-10 text-gray-10 hover:bg-gray-10 hover:text-white;
   }
+  .btn-telegram {
+    @apply bg-[#24A1DE]  border-gray-10 text-white hover:bg-[#24a0dec8] hover:text-white;
+  }
+
+  .btn-whatsapp {
+    @apply bg-[#25d366]  border-gray-10 text-white hover:bg-[#25d365cc] hover:text-white;
+  }
+
+  .btn-viber {
+    @apply bg-[#7360f2]  border-gray-10 text-white hover:bg-[#7460f2ca] hover:text-white;
+  }
 
   .section-title-before {
     @apply before:content-[url("./assets/heading-left.svg")] before:absolute before:-translate-x-full before:-translate-y-2/4;

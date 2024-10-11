@@ -16,16 +16,16 @@ const Hero = () => {
           >
             <div className="flex flex-col gap-y-4">
               <h2 className="section-title-before section-title-after text-h1 text-gray-10">
-                Unlock Your Potential With Our Online English School
+                Розкрийте Свій Потенціал з Нашою Онлайн-Школою Англійської
               </h2>
                 
               <p className="text-base font-medium text-gray-60">
-                Explore a world of knowledge and skills at your fingertips, from
-                business and technology to the arts and beyond
+                Досліджуйте світ знань і навичок у вас під рукою, від бізнесу та
+                технологій до мистецтва тощо
               </p>
             </div>
             <button type="button" className="btn btn-primary">
-              Get Started
+              Обрати курс
             </button>
           </motion.div>
           {/* Right Side */}
